@@ -16,4 +16,4 @@ print('a')
 <img width="647" height="392" alt="image" src="https://github.com/user-attachments/assets/9692579a-a3fc-4173-b684-3535d1a78be2" />
 
 ## Result
-Thus the python program to print the characters using character literals was executed sucessfully.
+Thus the python program to print the characters using character literals was executed successfully.
