@@ -32,4 +32,4 @@ print("d:", d)
 
 ## Result
 Thus the  Python program that evaluates and prints the results of boolean and arithmetic expressions involving `True` and `False`
-was executed sucessfully.
+was executed successfully.
