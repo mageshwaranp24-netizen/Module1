@@ -18,4 +18,4 @@ print(men_stepped_on_the_moon)
 <img width="898" height="256" alt="image" src="https://github.com/user-attachments/assets/6588945d-b27a-48bf-9887-a0fc15ffd1cd" />
 
 ## Result
-Thus the python program to read a string from the user and then printing it was executed sucessfully.
+Thus the python program to read a string from the user and then printing it was executed successfully.
